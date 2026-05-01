@@ -1,11 +1,11 @@
 # Who am I? 🦉
 #### Hi, I’m Anders! 👋
 
-*Aspiring Software Developer | Former Project Designer | Linux Enthusiast*
+*Aspiring Software Developer | Linux and FOSS Enthusiast*
 
 After years of designing projects and setting guidelines, I decided to fulfill a long-time dream of working directly with code. Today, I’m swapping blueprints and project planning for source code, and I’m loving every bit of the journey.
 
-* My digital garage: I run Linux Mint and spend more time than is probably healthy in my Guake terminal.
+* My digital garage: I run Linux Mint and spend more time than is probably healthy in my Guake terminal and VS Codium.
 
 * The toolbox: My code is primarily written in VSCodium. When I’m not hunting bugs, I organize my thoughts in Trilium or polish images in GIMP.
 
@@ -13,7 +13,7 @@ After years of designing projects and setting guidelines, I decided to fulfill a
 
 🛠️ What I’m working on right now:
 
-* Deep-diving into software development and modern programming. Specifically React, TypeScript, Node.js, and testing with Playwright.
+* Deep-diving into software development and modern programming. New project with Next.js, Podman Pods, containers and Typescript.
 
 * Automating everything that can be automated (and a few things that probably don’t need to be).
 
@@ -34,11 +34,11 @@ After years of designing projects and setting guidelines, I decided to fulfill a
 # Vem är jag? 🦉
 #### Hej, jag är Anders! 👋
 
-*Blivande systemutvecklare | Tidigare projektör | Linux-entusiast*
+*Blivande systemutvecklare | Linux- och Open Source-entusiast*
 
 Efter ett antal år av att projektera och dra upp riktlinjer, bestämde jag mig för att förverkliga en barndomsdröm och verkligen få jobba med att koda. Nu byter jag planering och projektering mot källkod och trivs fantastiskt bra med det.
 
-* Mitt digitala garage: Jag kör Linux Mint och spenderar mer tid än vad som förmodligen är hälsosamt i min Guake-terminal.
+* Mitt digitala garage: Jag kör Linux Mint och spenderar mer tid än vad som förmodligen är hälsosamt i min Guake-terminal och min kodeditor VS Codium.
 
 
 * Verktygslådan: Min kod skrivs främst i VSCodium. När jag inte jagar buggar organiserar jag mina tankar i Trilium eller putsar på någon bild i GIMP.
@@ -46,7 +46,7 @@ Efter ett antal år av att projektera och dra upp riktlinjer, bestämde jag mig 
 * Varför programmering? Det finns en speciell tillfredsställelse i att lösa komplexa problem rad för rad – lite som att få till den perfekta sältan i en laddning pitepalt. 😉
 
 🛠️ Vad jag pillar med just nu:
-* Förjupar mig i systemutveckling och modern programmering. Specifikt React, Typescript, Node.js och testning med Playwright.
+* Förjupar mig i systemutveckling och modern programmering. Nytt projekt med Next.js,  Podman Pods, containers och Typescript.
 * Automatiserar allt som går att automatisera (och en del saker som förmodligen inte behöver det).
 * Utforskar gränssnittet mellan stabil arkitektur och snygg kod.
 
