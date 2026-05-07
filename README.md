@@ -1,7 +1,7 @@
 # Who am I? 🦉
 #### Hi, I’m Anders! 👋
 
-*Aspiring Software Developer | Linux and FOSS Enthusiast*
+*Aspiring Software Developer | Linux and FOSS Enthusiast* ❤️‍🔥
 
 After years of designing projects and setting guidelines, I decided to fulfill a long-time dream of working directly with code. Today, I’m swapping blueprints and project planning for source code, and I’m loving every bit of the journey.
 
@@ -13,7 +13,7 @@ After years of designing projects and setting guidelines, I decided to fulfill a
 
 🛠️ What I’m working on right now:
 
-* Deep-diving into software development and modern programming. New project with Next.js, Podman Pods, containers and Typescript.
+* Deep-diving into software development and modern programming. New project with Next.js, Podman Pods, containers, Typescript, PostgreSQL with Prisma ORM.
 
 * Automating everything that can be automated (and a few things that probably don’t need to be).
 
@@ -34,7 +34,7 @@ After years of designing projects and setting guidelines, I decided to fulfill a
 # Vem är jag? 🦉
 #### Hej, jag är Anders! 👋
 
-*Blivande systemutvecklare | Linux- och Open Source-entusiast*
+*Blivande systemutvecklare | Linux- och Open Source-entusiast* ❤️‍🔥
 
 Efter ett antal år av att projektera och dra upp riktlinjer, bestämde jag mig för att förverkliga en barndomsdröm och verkligen få jobba med att koda. Nu byter jag planering och projektering mot källkod och trivs fantastiskt bra med det.
 
@@ -46,7 +46,7 @@ Efter ett antal år av att projektera och dra upp riktlinjer, bestämde jag mig 
 * Varför programmering? Det finns en speciell tillfredsställelse i att lösa komplexa problem rad för rad – lite som att få till den perfekta sältan i en laddning pitepalt. 😉
 
 🛠️ Vad jag pillar med just nu:
-* Förjupar mig i systemutveckling och modern programmering. Nytt projekt med Next.js,  Podman Pods, containers och Typescript.
+* Förjupar mig i systemutveckling och modern programmering. Nytt projekt med Next.js,  Podman Pods, containers, Typescript, PostgreSQL med Prisma ORM.
 * Automatiserar allt som går att automatisera (och en del saker som förmodligen inte behöver det).
 * Utforskar gränssnittet mellan stabil arkitektur och snygg kod.
 
