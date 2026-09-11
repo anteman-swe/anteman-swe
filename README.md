@@ -13,7 +13,7 @@ After years of designing projects and setting guidelines, I decided to fulfill a
 
 🛠️ What I’m working on right now:
 
-* Deep-diving into software development and modern programming. New project with Next.js, Podman Pods, containers, Typescript, PostgreSQL with Prisma ORM.
+* Deep-diving into software development and modern programming. New course, diving into Java, Spring Boot, etc
 
 * Automating everything that can be automated (and a few things that probably don’t need to be).
 
@@ -46,7 +46,7 @@ Efter ett antal år av att projektera och dra upp riktlinjer, bestämde jag mig 
 * Varför programmering? Det finns en speciell tillfredsställelse i att lösa komplexa problem rad för rad – lite som att få till den perfekta sältan i en laddning pitepalt. 😉
 
 🛠️ Vad jag pillar med just nu:
-* Förjupar mig i systemutveckling och modern programmering. Nytt projekt med Next.js,  Podman Pods, containers, Typescript, PostgreSQL med Prisma ORM.
+* Förjupar mig i systemutveckling och modern programmering. Ny kurs med fördjupning i Java, Spring Boot m.m. 
 * Automatiserar allt som går att automatisera (och en del saker som förmodligen inte behöver det).
 * Utforskar gränssnittet mellan stabil arkitektur och snygg kod.
 
