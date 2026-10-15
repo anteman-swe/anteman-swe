@@ -1,61 +1,82 @@
-# Who am I? 🦉
-#### Hi, I’m Anders! 👋
+<p align="center">
+  <a href="https://github.com/anteman-swe">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Anders" alt="Hello! I&#39;m Anders" />
+  </a>
+</p>
 
-*Aspiring Software Developer | Linux and FOSS Enthusiast* ❤️‍🔥
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=370&height=44&lines=System%20Developer;Open%20Source%20Enthusiast" alt="Typing headlines" />
+</p>
 
-After years of designing projects and setting guidelines, I decided to fulfill a long-time dream of working directly with code. Today, I’m swapping blueprints and project planning for source code, and I’m loving every bit of the journey.
+### 🚀 About Me
 
-* My digital garage: I run Linux Mint and spend more time than is probably healthy in my Guake terminal and VS Codium.
+🔭 &nbsp;I'm currently working on **Backend development in Java**  
+🌱 &nbsp;I'm currently learning **Backend development and system integration in Java**  
+💬 &nbsp;Ask me about **Anything**  
+⚡ &nbsp;Fun fact: **Learned how containers works by building a simple "Docker" in Go**
 
-* The toolbox: My code is primarily written in VSCodium. When I’m not hunting bugs, I organize my thoughts in Trilium or polish images in GIMP.
+### 🛠️ Tech Stack
 
-* Why programming? There’s a unique satisfaction in solving complex problems line by line – much like achieving the perfect balance in a batch of traditional northern Swedish potato dumplings (palt). 😉
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+</p>
 
-🛠️ What I’m working on right now:
+### 🔗 Connect With Me
 
-* Deep-diving into software development and modern programming. New course, diving into Java, Spring Boot, etc
+<p align="left">
+  <a href="https://linkedin.com/anders-eriksson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anteman.swe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-* Automating everything that can be automated (and a few things that probably don’t need to be).
+### 📊 GitHub Stats
 
-* Exploring the intersection of stable architecture and clean code.
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=anteman-swe&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=anteman-swe&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-☕ Outside the terminal:
+### 📈 Contribution Graph
 
-* When the screens go dark, you’ll likely find me cheering for Luleå Hockey, baking bread or cakes, grilling sausages in the forest, or experimenting with adding a bit too much chili to my cooking. But at the end of the day, the classics always win – nothing beats a hearty plate of northern "palt" with butter and lingonberry jam.  
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=anteman-swe&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-📫 Get in touch:
+### 💭 Dev Quote
 
-* I’m always open to exciting collaborations or just a chat about Git workflows and sleek terminal setups.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
-* LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anders-eriksson/)
-
----  
 ---
-# Vem är jag? 🦉
-#### Hej, jag är Anders! 👋
-
-*Blivande systemutvecklare | Linux- och Open Source-entusiast* ❤️‍🔥
-
-Efter ett antal år av att projektera och dra upp riktlinjer, bestämde jag mig för att förverkliga en barndomsdröm och verkligen få jobba med att koda. Nu byter jag planering och projektering mot källkod och trivs fantastiskt bra med det.
-
-* Mitt digitala garage: Jag kör Linux Mint och spenderar mer tid än vad som förmodligen är hälsosamt i min Guake-terminal och min kodeditor VS Codium.
-
-
-* Verktygslådan: Min kod skrivs främst i VSCodium. När jag inte jagar buggar organiserar jag mina tankar i Trilium eller putsar på någon bild i GIMP.
-
-* Varför programmering? Det finns en speciell tillfredsställelse i att lösa komplexa problem rad för rad – lite som att få till den perfekta sältan i en laddning pitepalt. 😉
-
-🛠️ Vad jag pillar med just nu:
-* Förjupar mig i systemutveckling och modern programmering. Ny kurs med fördjupning i Java, Spring Boot m.m. 
-* Automatiserar allt som går att automatisera (och en del saker som förmodligen inte behöver det).
-* Utforskar gränssnittet mellan stabil arkitektur och snygg kod.
-
-☕ Utanför terminalen:
-
-* När skärmarna slocknar hittar du mig förmodligen hejande på Luleå Hockey, bakar en kaka eller nåt bröd, grillande en korv ute i skogen eller i full färd med att tillsätta lite för mycket chili i matlagningen. Men i slutändan vinner alltid klassikerna – det finns inget som slår en rejäl tallrik potatispalt med smör och lingon.   
-
-📫 Kontakta mig:
-
-* Jag är alltid öppen för spännande samarbeten eller bara ett snack om Git-flöden och snygga terminal-setups.
-* LinkedIn: [Min LinkedIn](https://www.linkedin.com/in/anders-eriksson/)
-
+<p align="center"><i>⭐️ From <a href="https://github.com/anteman-swe">anteman-swe</a></i></p>
